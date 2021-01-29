@@ -12,8 +12,8 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Quem somos", link: "/quemsomos/" },
-      { text: "Gestão de Atendimento", link: "/special-layout/" }
-      // { text: "Ordem de serviço", link: "/os/" },
+      { text: "Gestão de Atendimento", link: "/special-layout/" },
+      { text: "Ordem de serviço", link: "/os/" }
       // { text: "Pré-vendas", link: "/guide/" }
     ]
   },
